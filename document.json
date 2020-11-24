@@ -1,0 +1,30 @@
+{
+  "name": "Python Machine Learning (3rd Ed.) Notebook Collection",
+  "description": "The "Python Machine Learning (3rd edition)" notebook collection",
+  "logo": "_images/notebook.png",
+  "has_supporting_content": false,
+  "de_catalog_id": "python_machine_learning_notebook_collection",
+  "source_repo": "https://github.com/rasbt/python-machine-learning-book-3rd-edition.git",
+  "cover": "cover.md",
+  "use_explorer_dataset": false,
+  "explorer_catalog_id": "",
+  "is_s3_type": false,
+  "buckets":[],
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Notebook"
+    ],
+    "Dataset": [
+      "Python Machine Learning (3rd Ed.) Dataset"
+    ],
+    "Categories": [
+      "General"
+    ],
+    "Catalog Id": [
+      "python_machine_learning_notebook_collection"
+    ]
+  }
+}
