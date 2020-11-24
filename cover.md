@@ -1,8 +1,5 @@
 ## Python Machine Learning (3rd Ed.) Code Repository
 
-[![Python 3.6](https://img.shields.io/badge/Python-3.7-blue.svg)](#)
-[![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE.txt)
-
 Code repositories for the 1st and 2nd edition are available at
 
 - https://github.com/rasbt/python-machine-learning-book and
