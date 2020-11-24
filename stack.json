@@ -1,0 +1,15 @@
+{
+  "title": "Python Machine Learning (3rd Ed.) Notebook Collection",
+  "description": "The "Python Machine Learning (3rd edition)" notebook collection",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": ["Notebook"],
+  "de_catalog_id": "python_machine_learning_notebook_collection",
+  "categories": [
+    "General"
+  ],
+  "tag":[],
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes"
+}
