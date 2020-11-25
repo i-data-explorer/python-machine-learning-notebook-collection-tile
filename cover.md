@@ -59,12 +59,12 @@ Kindle ASIN: B07VBLX2W7
 
 Raschka, Sebastian, and Vahid Mirjalili. *Python Machine Learning, 3rd Ed*. Packt Publishing, 2019.
 
-    @book{RaschkaMirjalili2019,  
-    address = {Birmingham, UK},  
-    author = {Raschka, Sebastian and Mirjalili, Vahid},  
-    edition = {3},  
-    isbn = {978-1789955750},   
-    publisher = {Packt Publishing},  
-    title = {{Python Machine Learning, 3rd Ed.}},  
-    year = {2019}  
-    }
+```
+Address: Birmingham, UK
+Author: Raschka, Sebastian and Mirjalili, Vahid
+Edition: 3
+ISBN: 978-1789955750
+Publisher: Packt Publishing
+Title: Python Machine Learning, 3rd Ed.
+Year: 2019
+```
