@@ -17,8 +17,6 @@ ISBN-10: 1789955750
 ISBN-13: 978-1789955750  
 Kindle ASIN: B07VBLX2W7 
 
-[<img src="./.other/cover_1.jpg" width="248">](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/)
-
 
 ## Links
 
@@ -29,29 +27,29 @@ Kindle ASIN: B07VBLX2W7
 
 ## Table of Contents and Code Notebooks
 
-**Helpful installation and setup instructions can be found in the [README.md file of Chapter 1](ch01/README.md)**
-
 **Please note that these are just the code examples accompanying the book, which we uploaded for your convenience; be aware that these notebooks may not be useful without the formulae and descriptive text.**   
 
+| Topic                  | Notebook Path                                                | Dataset Path  |
+| ---------------------- | ------------------------------------------------------------ | ------------------- |
+| Machine Learning - Giving Computers the Ability to Learn from Data | /home/jupyter-user/python_machine_learning_notebook_collection/ch01/ch01.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch01/images |
+| Training Machine Learning Algorithms for Classification | /home/jupyter-user/python_machine_learning_notebook_collection/ch02/ch02.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch02/images |
+| A Tour of Machine Learning Classifiers Using Scikit-Learn | /home/jupyter-user/python_machine_learning_notebook_collection/ch03/ch03.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch03/images |
+| Building Good Training Sets – Data Pre-Processing | /home/jupyter-user/python_machine_learning_notebook_collection/ch04/ch04.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch04/images |
+| Compressing Data via Dimensionality Reduction | /home/jupyter-user/python_machine_learning_notebook_collection/ch05/ch05.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch05/images |
+| Learning Best Practices for Model Evaluation and Hyperparameter Optimization | /home/jupyter-user/python_machine_learning_notebook_collection/ch03/ch06.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch06/images |
+| Combining Different Models for Ensemble Learning | /home/jupyter-user/python_machine_learning_notebook_collection/ch07/ch07.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch07/images |
+| Applying Machine Learning to Sentiment Analysis | /home/jupyter-user/python_machine_learning_notebook_collection/ch08/ch08.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch08/movie_data.csv.gz |
+| Embedding a Machine Learning Model into a Web Application | /home/jupyter-user/python_machine_learning_notebook_collection/ch09/ch09.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch09/images |
+| Predicting Continuous Target Variables with Regression Analysis | /home/jupyter-user/python_machine_learning_notebook_collection/ch10/ch10.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch10/images |
+| Working with Unlabeled Data – Clustering Analysis | /home/jupyter-user/python_machine_learning_notebook_collection/ch11/ch11.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch11/images |
+| Implementing a Multi-layer Artificial Neural Network from Scratch | /home/jupyter-user/python_machine_learning_notebook_collection/ch12/ch12.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch12/images |
+| Parallelizing Neural Network Training with TensorFlow | /home/jupyter-user/python_machine_learning_notebook_collection/ch13/ch13_part*.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch13/images |
+| Going Deeper: The Mechanics of TensorFlow | /home/jupyter-user/python_machine_learning_notebook_collection/ch14/ch14_part*.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch14/images |
+| Classifying Images with Deep Convolutional Neural Networks | /home/jupyter-user/python_machine_learning_notebook_collection/ch15/ch15_part*.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch15/images |
+| Modeling Sequential Data Using Recurrent Neural Networks | /home/jupyter-user/python_machine_learning_notebook_collection/ch16/ch16_part*.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch16/images |
+| Generative Adversarial Networks for Synthesizing New Data | /home/jupyter-user/python_machine_learning_notebook_collection/ch17/ch17_part*.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch17/images |
+| Reinforcement Learning for Decision Making in Complex Environments | /home/jupyter-user/python_machine_learning_notebook_collection/ch18/ch18.ipynb | /home/jupyter-user/python_machine_learning_notebook_collection/ch18/images |
 
-1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](ch01)] 
-2. Training Machine Learning Algorithms for Classification [[open dir](ch02)] 
-3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[open dir](ch03)] 
-4. Building Good Training Sets – Data Pre-Processing [[open dir](ch04)] 
-5. Compressing Data via Dimensionality Reduction [[open dir](ch05)] 
-6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization [[open dir](ch06)]
-7. Combining Different Models for Ensemble Learning [[open dir](ch07)] 
-8. Applying Machine Learning to Sentiment Analysis [[open dir](ch08)] 
-9. Embedding a Machine Learning Model into a Web Application [[open dir](ch09)]  
-10. Predicting Continuous Target Variables with Regression Analysis [[open dir](ch10)] 
-11. Working with Unlabeled Data – Clustering Analysis [[open dir](ch11)] 
-12. Implementing a Multi-layer Artificial Neural Network from Scratch [[open dir](ch12)] 
-13. Parallelizing Neural Network Training with TensorFlow [[open dir](ch13)] 
-14. Going Deeper: The Mechanics of TensorFlow [[open dir](ch14)] 
-15. Classifying Images with Deep Convolutional Neural Networks [[open dir](ch15)]  
-16. Modeling Sequential Data Using Recurrent Neural Networks [[open dir](ch16)] 
-17. Generative Adversarial Networks for Synthesizing New Data [[open dir](ch17)]  
-18. Reinforcement Learning for Decision Making in Complex Environments [[open dir](ch18)] 
 
 
 --- 
