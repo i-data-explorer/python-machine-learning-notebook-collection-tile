@@ -10,6 +10,7 @@
     "Education"
   ],
   "tag":[],
+  "managed_by": ["Edge"],
   "git_url": "",
   "git_commit": "",
   "installTime": "2 minutes"
