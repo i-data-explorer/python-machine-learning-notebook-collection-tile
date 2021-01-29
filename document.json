@@ -4,7 +4,7 @@
   "logo": "_images/notebook.png",
   "has_supporting_content": false,
   "de_catalog_id": "python_machine_learning_notebook_collection",
-  "source_repo": "https://github.com/rasbt/python-machine-learning-book-3rd-edition.git",
+  "source_repo": "https://github.com/i-data-explorer/python-machine-learning-book-3rd-edition-notebook.git",
   "cover": "cover.md",
   "use_explorer_dataset": false,
   "explorer_catalog_id": "",
