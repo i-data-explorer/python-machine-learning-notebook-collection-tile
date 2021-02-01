@@ -1,7 +1,7 @@
 {
   "name": "Python Machine Learning (3rd Ed.) Notebook Collection",
   "description": "The Python Machine Learning (3rd edition) notebook collection",
-  "logo": "_images/notebook.png",
+  "logo": "_images/notebook-1.png",
   "has_supporting_content": false,
   "de_catalog_id": "python_machine_learning_notebook_collection",
   "source_repo": "https://github.com/i-data-explorer/python-machine-learning-book-3rd-edition-notebook.git",
