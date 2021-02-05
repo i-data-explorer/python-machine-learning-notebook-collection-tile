@@ -11,7 +11,7 @@
   "is_s3_type": false,
   "buckets":[],
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -23,6 +23,15 @@
     "Categories": [
       "Machine Learning",
       "Education"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
     "Catalog Id": [
       "python_machine_learning_notebook_collection"
